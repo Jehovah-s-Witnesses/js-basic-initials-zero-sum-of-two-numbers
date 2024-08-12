@@ -1,8 +1,6 @@
-# template-vanilla
+# js-basic-initials-zero-sum-of-two-numbers
 
-## Text
-
-## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
+## Get from user two numbers, and calculate sum of them and inform user about result
 
 ## Criteria:
 
